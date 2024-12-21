@@ -1,0 +1,15 @@
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\Database.mdf
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\Database_log.ldf
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\SignUpApp.exe.config
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\SignUpApp.exe
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\SignUpApp.pdb
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\Dapper.dll
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\bin\Debug\Dapper.xml
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.csproj.AssemblyReference.cache
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.Form1.resources
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.Properties.Resources.resources
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.csproj.GenerateResource.cache
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.csproj.CoreCompileInputs.cache
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.csproj.Up2Date
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.exe
+C:\Users\waw\Desktop\SignUpApp\SignUpApp\obj\Debug\SignUpApp.pdb
